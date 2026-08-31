@@ -109,7 +109,7 @@ My interests are to study data analysis and management applied in fusion energy,
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/fernando-albuquerque-05092000/">
+  <a href="https://www.linkedin.com/in/fernando-albuquerque-05092000/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b" alt="LinkedIn"/>
   </a>
   <a href="mailto:fernandoafalbuquerque@gmail.com">
