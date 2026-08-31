@@ -39,21 +39,35 @@ Nuclear technologist and PhD candidate in Nuclear Technology at IPEN-CNEN/USP, w
 </div>
 
 <ul>
-<em><strong>Nuclear and Energy Research Institute, University of São Paulo</strong></em></li>
+  <li>
+    <em><strong>Nuclear and Energy Research Institute, University of São Paulo (IPEN-CNEN/USP)</strong></em>
+    <ul>
+      <li><span style="color:#FF3B3B;">●</span> PhD in Nuclear Technology (ongoing)</li>
+      <li><span style="color:#FF3B3B;">●</span> MSc in Nuclear Technology – 2025</li>
+    </ul>
+  </li>
 
-  <span style="color:#FF3B3B;">●</span> PhD in Nuclear Technology (ongoing)
-  <span style="color:#FF3B3B;">●</span> MSc in Nuclear Technology – 2025<br>
+  <li>
+    <em><strong>Federal Institute of São Paulo (IFSP)</strong></em>
+    <ul>
+      <li><span style="color:#FF3B3B;">●</span> B.Tech. in Systems Analysis and Development (ADS) (ongoing)</li>
+    </ul>
+  </li>
 
-  <em><strong>Federal Institute of São Paulo</strong></em></li>
-  <span style="color:#FF3B3B;">●</span> B.Tech. in Systems Analysis and Development (ADS) (ongoing)<br>
-  
-  <em><strong>Faculty of Technology of São Paulo (FATEC-SP)</strong></em></li>
-  <span style="color:#FF3B3B;">●</span> Technologist in Materials (Metallic Materials) – 2021<br>
+  <li>
+    <em><strong>Faculty of Technology of São Paulo (FATEC-SP)</strong></em>
+    <ul>
+      <li><span style="color:#FF3B3B;">●</span> Technologist in Materials (Metallic Materials) – 2021</li>
+    </ul>
+  </li>
 
-  <em><strong>SENAI São Paulo</strong></em></li>
-  <span style="color:#FF3B3B;">●</span> Technical Degree in Mechatronics – 2018</li>
-  <span style="color:#FF3B3B;">●</span> Electro-Electronic Maintenance Technician– 2016<br>
-  
+  <li>
+    <em><strong>SENAI São Paulo</strong></em>
+    <ul>
+      <li><span style="color:#FF3B3B;">●</span> Technical Degree in Mechatronics – 2018</li>
+      <li><span style="color:#FF3B3B;">●</span> Electro-Electronic Maintenance Technician – 2016</li>
+    </ul>
+  </li>
 </ul>
 
 <!GITHUB ACTIVITIES AND STATS>
