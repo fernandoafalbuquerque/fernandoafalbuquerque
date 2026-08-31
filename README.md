@@ -32,7 +32,11 @@
   <img src="./assets/about_me.svg" width="800" alt="About Me"/>
 </div>
 
-Nuclear technologist and PhD candidate in Nuclear Technology at IPEN-CNEN/USP, working with fusion energy, advanced materials and plasma diagnostics. Currently doing also a Systems Analysis and Development course to strenghten my Data Analysis knowledge and experience focused on the Fusion Science environment.
+Hello! I'm Fernando. I'm a Nuclear technologist and a PhD candidate in Nuclear Technology at the Nuclear and Energy Research Institute, University of São Paulo - Brasil.
+
+I'm also currently doing also a Systems Analysis and Development course at the Federal Institute of São Paulo to strenghten my Data Analysis knowledge and experience focused on the Fusion Science environment.
+
+My interests are to study data analysis and management applied in fusion energy, tokamaks, advanced materials (such as plasma facing components to nuclear reactors), laser technology and plasma diagnostics. 
 
 <div align="center">
   <img src="./assets/education.svg" width="800" alt="About Me"/>
@@ -42,30 +46,30 @@ Nuclear technologist and PhD candidate in Nuclear Technology at IPEN-CNEN/USP, w
   <li>
     <em><strong>Nuclear and Energy Research Institute, University of São Paulo (IPEN-CNEN/USP)</strong></em>
     <ul>
-      <li><span style="color:#FF3B3B;">●</span> PhD in Nuclear Technology (ongoing)</li>
-      <li><span style="color:#FF3B3B;">●</span> MSc in Nuclear Technology – 2025</li>
+      <li> PhD in Nuclear Technology (ongoing)</li>
+      <li> MSc in Nuclear Technology – 2025</li>
     </ul>
   </li>
 
   <li>
     <em><strong>Federal Institute of São Paulo (IFSP)</strong></em>
     <ul>
-      <li><span style="color:#FF3B3B;">●</span> B.Tech. in Systems Analysis and Development (ADS) (ongoing)</li>
+      <li> B.Tech. in Systems Analysis and Development (ADS) (ongoing)</li>
     </ul>
   </li>
 
   <li>
     <em><strong>Faculty of Technology of São Paulo (FATEC-SP)</strong></em>
     <ul>
-      <li><span style="color:#FF3B3B;">●</span> Technologist in Materials (Metallic Materials) – 2021</li>
+      <li> Technologist in Materials (Metallic Materials) – 2021</li>
     </ul>
   </li>
 
   <li>
     <em><strong>SENAI São Paulo</strong></em>
     <ul>
-      <li><span style="color:#FF3B3B;">●</span> Technical Degree in Mechatronics – 2018</li>
-      <li><span style="color:#FF3B3B;">●</span> Electro-Electronic Maintenance Technician – 2016</li>
+      <li> Technical Degree in Mechatronics – 2018</li>
+      <li> Electro-Electronic Maintenance Technician – 2016</li>
     </ul>
   </li>
 </ul>
@@ -105,10 +109,10 @@ Nuclear technologist and PhD candidate in Nuclear Technology at IPEN-CNEN/USP, w
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mfranmartins/">
+  <a href="www.linkedin.com/in/fernando-albuquerque-05092000">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mfran.martiins@gmail.com">
+  <a href="mailto:fernandoafalbuquerque@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3b3b" alt="Email"/>
   </a>
 
